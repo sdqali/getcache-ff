@@ -2,7 +2,7 @@
     "name": "getcache-ff",
     "license": "GPL 3.0",
     "author": "Sadique Ali",
-    "version": "0.1",
+    "version": "0.2",
     "fullName": "getcache-ff",
     "id": "jid1-SIkYWuASfmQE7g",
     "description": "Get Google's cached version of the current page.."
